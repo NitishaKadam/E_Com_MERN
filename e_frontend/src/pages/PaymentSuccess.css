@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#style{
+    background-color: aquamarine;
+}
+
+
+#tq{
+    color:blue;
+    font-size: 20px;
+}

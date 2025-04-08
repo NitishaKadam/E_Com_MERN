@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+#cart{
+    border:2px solid black;
+    background-color: bisque;
+    border-radius:20px;
+}
+
+#no{
+    font-size: 30px;
+}

@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    justify-content:center;
+}
+#checkout{
+   
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-color:white;
+    width: 350px;
+    background-color: blanchedalmond;
+    border:3px solid black;
+    border-radius:30px;
+
+}
+#btn{
+    width:100px;
+}
+
+h2{
+    text-decoration: underline;
+
+}
+#del{
+    color:blue
+}

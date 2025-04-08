@@ -1,0 +1,45 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#login{
+    width:400px;
+    background-image:url(img.jpg);
+    border:3px solid black;
+    border-radius: 20px;
+    
+}
+
+#style{
+    display:flex;
+    flex-direction: column;
+    width:300px;
+    padding:10px;
+    box-shadow: 4px 3px 5px black;
+    border:2px solid black;
+    background-color:grey;
+    border-radius: 20px;
+}
+
+#btn{
+    width:60px;
+    background-color:blue;
+    color:white;
+    padding:10px;
+    border-radius: 10px;
+}
+
+#dont{
+    padding-left: 20px;
+    font-size:20px;
+}
+
+
+#sgn{
+    padding:5px;
+    border:2px solid black;
+    border-radius:10px;
+    background-color: burlywood;
+}
